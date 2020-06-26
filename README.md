@@ -18,5 +18,7 @@
 	Typically, databases are hosted on platforms other than local machines; however, in this instance, all data and commands were run locally. Had this program intended to use network resources, login would be required, and credentials would need to be sanitized to ensure security of the sensitive information. Additionally, depending on the nature of the data within the SQL database, encryption may have been necessary to protect the information in the event of a breach. Each available SQL command possessed error-handling and the allowed user inputs were each acknowledged through a switch statement; valid input would carry out the SQL commands, while invalid input would exit the program to combat misuse.
 ### Code Reviews
 [Software Engineering/Design](https://www.youtube.com/watch?v=OkAafFWjnWw)
+
 [Algorithms & Data Structure](https://www.youtube.com/watch?v=QLe8jZrO_lA)
+
 [Databases](https://www.youtube.com/watch?v=pwh7RPcIp9I)
